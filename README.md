@@ -37,7 +37,7 @@
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
 | [Digital Resume](https://muhammad-muzzamal.github.io/Digital-Resume-Muhammad-Muzzamal/) | Interactive modern resume | React, TailwindCSS |
-| [College Academic System](https://github.com/Muhammad-Muzzamal/college-academic-system) | Full-stack academic management system | React, Node.js, MySQL |
+| [College Academic System](https://github.com/Muhammad-Muzzamal/college-academic-system) | Full-stack academic management system | MySQL |
 | [Portfolio Website](https://muhammad-muzzamal.github.io/) | My professional portfolio | HTML, CSS, JavaScript |
 
 ## 📈 GitHub Stats
