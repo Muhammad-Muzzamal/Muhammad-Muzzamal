@@ -27,10 +27,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,git" />
 </div>
 
-### Currently Exploring
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,redux,ts,firebase" />
-</div>
 
 ## 🌟 Featured Projects
 
