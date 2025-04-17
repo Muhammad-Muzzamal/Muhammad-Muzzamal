@@ -1,92 +1,59 @@
-# Muhammad Muzzamal
-#### Frontend Developer | React Specialist | UI Engineer
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Muhammad Muzzamal
 
-<div align="center">
-  
-![Professional Header](https://raw.githubusercontent.com/muhammad-muzzamal/muhammad-muzzamal/main/assets/professional-header.svg)
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&height=50&lines=Frontend+Developer;React+Specialist;UI%2FUX+Enthusiast;Clean+Code+Advocate" alt="Typing Animation" />
+</h3>
 
-</div>
-
-## Professional Summary
-Experienced Frontend Developer with 1.5 years of expertise in building responsive, accessible web applications. Specialized in React.js and modern JavaScript frameworks with a strong focus on performance optimization and clean code practices.
-
----
-
-## 🛠 Core Competencies
-
-### Frontend Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+<p align="center">
+  <a href="https://github.com/muhammad-muzzamal?tab=repositories">
+    <img alt="All Repositories" src="https://img.shields.io/badge/-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://muhammad-muzzamal.github.io/Digital-Resume-Muhammad-Muzzamal/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:ashrafmuzzamal7@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</p>
-
----
-
-## 🏆 Notable Projects
-
-### [Digital Resume Platform](https://muhammad-muzzamal.github.io/Digital-Resume-Muhammad-Muzzamal/)
-Modern, interactive resume builder showcasing professional achievements and skills. Implemented with React and TailwindCSS for optimal performance.
-
-**Key Features:**
-- Responsive design across all devices
-- PDF generation functionality
-- Dark/light mode toggle
-
-### [College Academic System](https://github.com/Muhammad-Muzzamal/college-academic-system)
-Full-featured academic management system developed as semester project.
-
-**Technologies Used:**
-- Frontend: React.js
-- Backend: Node.js
-- Database: MySQL
-
----
-
-## 📈 GitHub Metrics
-
 <div align="center">
-  
-![Professional GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-muzzamal&show_icons=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-muzzamal&layout=compact&theme=default)
-
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation">
 </div>
 
----
+## 🛠️ My Tech Stack
 
-## 📚 Continuous Learning
-Currently enhancing skills in:
-- Advanced React patterns (Compound Components, Render Props)
-- Next.js for server-side rendering
-- Web performance optimization techniques
-- Accessibility standards (WCAG 2.1)
-
----
-
-## 📫 Professional Contact
-
+### Frontend Development
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muhammad-muzzamal-846117289)
-[![Email](https://img.shields.io/badge/Professional_Inquiry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashrafmuzzamal7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammad-muzzamal.github.io/Digital-Resume-Muhammad-Muzzamal/)
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma,git" />
 </div>
 
----
+### Currently Exploring
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,redux,ts,firebase" />
+</div>
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| [Digital Resume](https://muhammad-muzzamal.github.io/Digital-Resume-Muhammad-Muzzamal/) | Interactive modern resume | React, TailwindCSS |
+| [College Academic System](https://github.com/Muhammad-Muzzamal/college-academic-system) | Full-stack academic management system | React, Node.js, MySQL |
+| [Portfolio Website](https://muhammad-muzzamal.github.io/) | My professional portfolio | HTML, CSS, JavaScript |
+
+## 📈 GitHub Stats
 
 <div align="center">
-  
-![Footer](https://raw.githubusercontent.com/muhammad-muzzamal/muhammad-muzzamal/main/assets/professional-footer.svg)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-muzzamal&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-muzzamal&theme=radical&hide_border=true" />
 </div>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-muzzamal&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" />
+</div>
+
+## 🎯 Currently Focusing On
+
+```text
+🌱 Mastering Advanced React Patterns
+🚀 Building Projects with Next.js
+🎨 Improving UI/UX Design Skills
