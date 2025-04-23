@@ -42,6 +42,7 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammad-muzzamal&show_icons=true&theme=radical&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-muzzamal&theme=radical&hide_border=true" />
+![Stats](https://streak-stats.demolab.com/?user=muhammad-muzzamal&theme=radical)
 </div>
 
 <div align="center">
